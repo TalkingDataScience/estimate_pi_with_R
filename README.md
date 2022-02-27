@@ -1,6 +1,8 @@
 # How to Estimate pi Using Monte Carlo Simulation in R
 
-In this repo you can see the code used in a post on my blog [talkingDataScience.com](https://talkingdatascience.com/how-to-estimate-pi-using-monte-carlo-simulation-in-r/), which was also published in [Towards Data Science](https://towardsdatascience.com/estimating-pi-using-monte-carlo-simulation-in-r-91d1f32406af).
+This repo contains the code for doing the simulation in R. 
+
+Please visit my blog [Talking Data Science](https://talkingdatascience.com/how-to-estimate-pi-using-monte-carlo-simulation-in-r/), or Medium where the article was published in [Towards Data Science](https://towardsdatascience.com/estimating-pi-using-monte-carlo-simulation-in-r-91d1f32406af) to read the full article.
 
 ### How to find an expression for pi
 The area of a circle is calculated by pi*r^2, and the area of the bounding square is (2r)^2 = 4r^2. Dividing the area of the circle by the area of the square we get the ratio of the two areas:
